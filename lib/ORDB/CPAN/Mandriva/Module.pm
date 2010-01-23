@@ -18,8 +18,8 @@ null.
 
 =attr my $str = $module->dist;
 
-This is the CPAN distribution the module is part of, eg L<ORDB-CPAN-
-Mandriva>. It may be null.
+This is the CPAN distribution the module is part of, eg
+C<ORDB-CPAN-Mandriva>. It may be null.
 
 =attr my $str = $module->pkgname;
 
