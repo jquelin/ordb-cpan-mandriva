@@ -48,22 +48,22 @@ You can find more information on this module at:
 
 =item * Search CPAN
 
-L<http://search.cpan.org/dist/Games-RailRoad>
+L<http://search.cpan.org/dist/ORDB-CPAN-Mandriva>
 
 =item * See open / report bugs
 
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Games-RailRoad>
+L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=ORDB-CPAN-Mandriva>
 
 =item * Git repository
 
-L<http://github.com/jquelin/games-railroad>
+L<http://github.com/jquelin/ordb-cpan-mandriva>
 
 =item * AnnoCPAN: Annotated CPAN documentation
 
-L<http://annocpan.org/dist/Games-RailRoad>
+L<http://annocpan.org/dist/ORDB-CPAN-Mandriva>
 
 =item * CPAN Ratings
 
-L<http://cpanratings.perl.org/d/Games-RailRoad>
+L<http://cpanratings.perl.org/d/ORDB-CPAN-Mandriva>
 
 =back
