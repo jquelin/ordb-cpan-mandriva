@@ -225,6 +225,10 @@ __END__
 This module is an easy way to fetch a database listing all Perl modules
 & distributions packaged within Mandriva Linux distribution.
 
+When using it, it will automatically & silently download it from the
+original source and copy it in a local directory, letting you focus on
+what you want with the data itself.
+
 Check the F<examples> directory for some ideas on how to use it.
 
 
